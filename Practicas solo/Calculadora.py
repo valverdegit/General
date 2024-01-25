@@ -39,3 +39,4 @@ elif action=="DIVIDE" and num2!=0:
     print(resultado)
 elif action=="DIVIDE" and num2==0:
     print("Second number needs to be diferent from zero")
+#Tengo que revisar el codigo porque no funciona todavia
